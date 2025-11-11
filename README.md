@@ -21,4 +21,4 @@ El JSON utilizado corresponde al endpoint:
 https://jsonkeeper.com/b/MX0A
 
 ---
-Autor: Cynthia Carolina Martinez
+Autor: Danilo Vezzoni
